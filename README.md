@@ -1,5 +1,6 @@
 # Reginald-Hayes-Code-sample
 This visual studio project requires the glew and glut library to be installed.
+Project_3_Hayes_Reginald.sln starts the project
 The program takes a little time to initialize and run
 car controls:
 up arrow key: accelerate
